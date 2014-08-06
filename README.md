@@ -1,7 +1,4 @@
 ##Spaceship Game##
-==================
-
-
 ####About this game####
 I first made this game when I was in grade 10 at the age of 14. It features basic programming concepts such as loops, variables, procedures, coordinate system etc. Basically, in this game you have to control a spacehip and avoid rocks and obstacle, or simple shoot fireball to kill obstacles. Instructions may be found inside the game itself. 
 
