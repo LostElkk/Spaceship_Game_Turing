@@ -13,4 +13,4 @@ This game is made on the Turing platform. Turing is a language that was created 
 
 
 #####See Video of this Game####
-If you want to See Screenshots and Video of this Game, please visit my <a href="https://ece.uwaterloo.ca/~zu2syed/projects.html#spaceship_game" >Personal Wesbite</a> to see this project
+If you want to see mroe screenshots and a video of this Game, please visit my <a href="https://ece.uwaterloo.ca/~zu2syed/projects.html#spaceship_game" >Personal Wesbite</a> to see this project
