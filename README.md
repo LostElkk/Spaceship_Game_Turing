@@ -6,5 +6,11 @@ I first made this game when I was in grade 10 at the age of 14. It features basi
 This game is made on the Turing platform. Turing is a language that was created for learning purposes. It is commonly compared with Visual Basic. Turing is very similar to Pascal, but is made much easier to learn at first. 
 
 
-#####See Screenshots of this Game####
+###Screenshots###
+<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/zombiepic1.png.png" />&nbsp;
+<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/zombiepic2.png.png" />&nbsp;
+<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/zombiepic3.png.png" />&nbsp;
+
+
+#####See Video of this Game####
 If you want to See Screenshots and Video of this Game, please visit my <a href="https://ece.uwaterloo.ca/~zu2syed/projects.html#spaceship_game" >Personal Wesbite</a> to see this project
