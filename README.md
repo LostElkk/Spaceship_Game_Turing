@@ -7,9 +7,9 @@ This game is made on the Turing platform. Turing is a language that was created 
 
 
 ###Screenshots###
-<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/zombiepic1.png.png" />&nbsp;
-<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/zombiepic2.png.png" />&nbsp;
-<img width="24%" src="https://ece.uwaterloo.ca/~zu2syed/zombiepic3.png.png" />&nbsp;
+<img src="https://ece.uwaterloo.ca/~zu2syed/zombiepic3.png" />&nbsp;
+<img src="https://ece.uwaterloo.ca/~zu2syed/zombiepic4.png" />&nbsp;
+<img src="https://ece.uwaterloo.ca/~zu2syed/zombiepic5.png" />&nbsp;
 
 
 #####See Video of this Game####
